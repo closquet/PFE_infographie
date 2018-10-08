@@ -8,7 +8,7 @@
     
 ## Pourquoi ?
 
-J’ai remarqué que régulièrement, dans mon enfance mes parents se posaient chaque la même question le soir, « qu’est-ce qu’on mange ? ». 
+J’ai remarqué que régulièrement, dans mon enfance mes parents se posaient chaque soir la même question, « qu’est-ce qu’on mange ? ». 
 
 Et depuis que je suis en ménage cela se produit quand le soir arrive, ma femme et moi nous posons la même question avec des réponse du genre « ah non j’ai demandé avant » ou encore « j’ai choisi hier, à ton tour ».
 
