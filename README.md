@@ -1,6 +1,6 @@
 # Projet de fin d’étude
 
-    Nom du projet : Qu’est-ce qu’on mange ?
+    Nom du projet : Alea-food
     Nom de l’étudiant : Eric Closquet
     Groupe : 2384
     Année : 2017-2018
@@ -58,4 +58,9 @@ Elle obtient une recette et se rend au magasin pour acheter les aliments manquan
     -  De commenter une recette
     -  De publier ses propres recettes (participatif).
     -  Signaler une recette d’utilisateur.
--  Modération et administration via appli react.js (web).
+-  Modération et administration via appli Vue.js (web).
+
+
+## Technique :
+- Front : Vue.JS
+- Back : Laravel
